@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication {
     class Program {
-        static void Main( string[] args ) {
-        //    Console.Read();
+        static void Main( string[] args )
+        {
+            Console.WriteLine("Hi");
+         Console.Read();
         }
     }
 }
