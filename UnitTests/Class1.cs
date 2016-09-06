@@ -8,7 +8,7 @@ namespace UnitTests
         [Test]
         public void TransferFunds() {
            
-            Assert.AreEqual( 250m, 250m);
+            Assert.AreEqual( 250m, 150m);
         }
 
     }
