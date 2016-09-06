@@ -8,7 +8,8 @@ namespace ConsoleApplication {
     class Program {
         static void Main( string[] args )
         {
-            Console.WriteLine("Hi");
+            int a = 5;
+         Console.WriteLine(5);
          Console.Read();
         }
     }
